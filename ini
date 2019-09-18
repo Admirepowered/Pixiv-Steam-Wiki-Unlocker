@@ -1,0 +1,9 @@
+[pz]
+pixiv=1
+ver=3.1
+gg=网络修复，取消QQ接口
+DNS=123.207.22.79
+#DNS=101.132.183.99
+new=https://raw.githubusercontent.com/Admirepowered/steamhost/master/new
+newname=Arich3.1.exe
+jxym=https://dns.rubyfish.cn/dns-query?name=地址&type=A
