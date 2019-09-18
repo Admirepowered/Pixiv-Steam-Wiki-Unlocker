@@ -7,5 +7,5 @@ DNS=202.141.162.123
 #DNS=101.132.183.99
 new=https://raw.githubusercontent.com/Admirepowered/steamhost/master/new
 newname=Arich3.1.exe
-jxym=https://dns.rubyfish.cn/dns-query?name=地址&type=A
+jxym=https://dns.rubyfish.cn/dns-query?name=AAAA&type=A
 pixivd=https://raw.githubusercontent.com/Admirepowered/steamhost/master/pixiv
