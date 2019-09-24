@@ -1,4 +1,6 @@
 # steamhost  
+服务器模式开启1088 8081 65531端口，正常模式PAC http://ip:8081/1.pac 全局模式使用1088端口的http代理（国内WINDOWS服务器）
+证书在设置窗口下载
 Admire  
 意见反馈，企鹅群650667016，个人游戏群
 Steam和其他网站的Windows32-64位工具（需要支持nginx，大部分机器应该支持吧）（WINDDOWS XP 32位sp3测试通过）  
