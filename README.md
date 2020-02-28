@@ -11,4 +11,4 @@ Steam和其他网站的Windows32-64位工具（需要支持nginx，大部分机�
 计划开放PAC模式（已经完成，育碧，微软能正常登陆）  
 http1.0的代理会失效（因为没写）  
 附件直接下载方法（下载ssl和nginx，在程序目录下创建downloads目录，将两个文件移动进入即可）  
-谢谢支持  
+由于Github RAW地址被屏蔽，故搬运到gitee，https://gitee.com/Admirepowered/Arich 此处停止更新并放出最后一个版本的源码
