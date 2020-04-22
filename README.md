@@ -10,6 +10,6 @@ Steam和其他网站的Windows32-64位工具（需要支持nginx，大部分机�
 需要IE浏览器开放代理服务器权限（能够使用本地代理服务器）  
 计划开放PAC模式（已经完成，育碧，微软能正常登陆）  
 http1.0的代理会失效（因为没写）  
-附件直接下载方法（下载ssl和nginx，在程序目录下创建downloads目录，将两个文件移动进入即可）  
+附件直接下载方法（下载ssl和nginx还有DNS和HPSOCK.dll，在程序目录下创建downloads目录，将两个文件移动进入即可）  
 由于Github RAW地址被屏蔽，故搬运到gitee，https://gitee.com/Admirepowered/Arich 
 源码上的ssl nginx DNS都为压缩包文件，更改为zip即可看到  
