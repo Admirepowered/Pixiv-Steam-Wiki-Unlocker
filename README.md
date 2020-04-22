@@ -5,7 +5,7 @@ Admire
 QQ群334358435
 Steam和其他网站的Windows32-64位工具（需要支持nginx，大部分机器应该支持吧）（WINDDOWS XP 32位sp3测试通过）  
 解锁SNI封锁  
-目前知道的有steam 维基百科 e-hentai.org  
+目前知道的有steam 维基百科 e-hentai.org  (恭喜Discord加入豪华套餐 2020/4/22 Test)
 都可以通过此方法解锁  
 需要IE浏览器开放代理服务器权限（能够使用本地代理服务器）  
 计划开放PAC模式（已经完成，育碧，微软能正常登陆）  
