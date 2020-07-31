@@ -17,3 +17,4 @@ Powere by:
 https://github.com/ldcsaa/HP-Socket  
 https://github.com/nginx/nginx  
 https://github.com/DNSCrypt/dnscrypt-proxy  
+https://github.com/openssl/openssl  
