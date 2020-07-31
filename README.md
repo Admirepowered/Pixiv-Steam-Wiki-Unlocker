@@ -13,3 +13,7 @@ http1.0的代理会失效（因为没写）
 附件直接下载方法（下载ssl和nginx还有DNS和HPSOCK.dll，在程序目录下创建downloads目录，将两个文件移动进入即可）  
 由于Github RAW地址被屏蔽，故搬运到gitee，https://gitee.com/Admirepowered/Arich 
 源码上的ssl nginx DNS都为压缩包文件，更改为zip即可看到  
+Powere by:  
+https://github.com/ldcsaa/HP-Socket  
+https://github.com/nginx/nginx  
+https://github.com/DNSCrypt/dnscrypt-proxy  
